@@ -1,0 +1,5 @@
+You should also know that there is lot more easier way to burn Atmega 328: If you are going to use Atmega 328 in your final product, you do not need to go through the long procedure. Just follow these steps:
+Step1: Upload your code in Arduino as usual. (Build your whole circuit relying on Arduino pins, believing that you can quite easily migrate to breadboard)
+Step2: Remove the micro-controller chip from Arduino and then put this into your breadboard circuit. Make it a standalone system just like in the standalone diagram.
+Step3: Connect your I/O pins to micro-controller on breadboard by looking at pin-mapping diagram.
+Step5: Celebrate because you are done so quick!
